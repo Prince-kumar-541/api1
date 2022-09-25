@@ -1,0 +1,15 @@
+.cards{
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card{
+    box-shadow: 3px 3px 10px black;
+}
+img{
+    height: 230px;
+}
+body{
+    background-color: rgb(167, 238, 167);
+}
